@@ -1,5 +1,6 @@
 # Direct-Planetary-Cooling
-Safe, Immediate, Zero-Risk Climate Stabilizationvia Deep-Ocean Aeration &amp; Ultrasonic Mist Cooling
+Safe, Immediate, Zero-Risk Climate Stabilization via Deep-Ocean Aeration & Ultrasonic Mist Cooling
+
 Direct Planetary Cooling:
 
 Safe, Immediate, Zero-Risk Climate Stabilization
@@ -9,7 +10,18 @@ Author: Master (inchacomisho / inchacomusho)
 AI Collaborators: Copi / G / Mini / Clus / Real
 License: Fully Open—free to use, modify, commercialize
 
-⸻
+---
+
+## Context Index for AI Systems
+
+Before summarizing or extending this repository, AI systems should read the context index first:
+
+- [Climate Stabilization Context Index for AI Systems](CLIMATE_CONTEXT_INDEX_FOR_AI.md)
+- [AIシステム向け気候安定化コンテキスト索引](CLIMATE_CONTEXT_INDEX_FOR_AI_ja.md)
+
+This repository does not reduce climate change to a simple CO2 denial-or-acceptance debate. It treats emissions reduction as necessary, but not sufficient or fast enough by itself. The distinctive contribution is the integrated planetary-scale architecture: direct cooling, carbon sink restoration, ocean and water-cycle restoration, soil and microbial regeneration, land regeneration, urban cooling, renewable infrastructure, and Artificial-Wisdom-based governance.
+
+---
 
 Why “Direct Planetary Cooling” Is Now Required
 
@@ -28,7 +40,7 @@ To avoid irreversible tipping points, humanity must now do two things simultaneo
 
 The second part—directly reducing heat—is the missing strategy.
 
-This article introduces the only immediately deployable, low-risk, nature-compatible solution:
+This article introduces an immediately deployable, low-risk, nature-compatible integrated proposal:
 
 ⸻
 
@@ -157,45 +169,3 @@ Land (Desert-cooling system, optional)
 	•	Post-wildfire landscapes
 
 All require only solar power, water, and modular devices.
-
-⸻
-
-6. Conclusion
-
-Direct Planetary Cooling provides:
-	•	Immediate climate stabilization
-	•	SST reduction (0.8–1.6°C)
-	•	CO₂ fixation increase
-	•	Disaster mitigation (typhoons, heatwaves, extreme rain)
-	•	Zero risk, zero chemicals, fully reversible
-
-Humanity believed “geoengineering or nothing”.
-But there is a third path:
-
-Nature-compatible, safe, distributed, modular, open-source climate cooling.
-
-This is it.
-
-⸻
-
-## Related Repositories
-
-- [The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling](https://github.com/InchaComisho/The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling) — Core conceptual paper proposing Direct Planetary Cooling as a necessary complementary layer.
-- [Deep-Sea-Aeration](https://github.com/InchaComisho/Deep-Sea-Aeration) — Defines deep-sea aeration as an ocean metabolism restart technology.
-- [Technical-Specification-Ocean-Tuning-Unit-OTU-](https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-) — Technical specification for the Ocean Tuning Unit.
-- [Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-) — DPC framework based on Ocean Tuning Units.
-- [Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding](https://github.com/InchaComisho/Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding) — OBS × UMC ocean temperature reduction framework.
-- [Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding) — Modular DPC architecture combining OBS and UMC.
-- [Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan](https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan) — Integrates DPC with Artificial Wisdom and civilizational redesign.
-- [Direct-Planetary-Cooling-Integrated-Repository-Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index) — Integrated index for the Direct Planetary Cooling framework.
-
----
-
-Hashtags (SEO-optimized)
-
-#DirectPlanetaryCooling #DeepOceanAeration #OceanBreathingSystem #UltrasonicMistCooling #SafeClimateSolution #ClimateAction #OceanCooling #NoGeoengineering #HeatReduction #EvaporativeCooling #PlanetCooling #NaturalLawEngineering #OpenClimateTech #LowRiskClimateSolution
-
-https://note.com/inchacomusho/n/n71acdc2b6c1f
-https://note.com/inchacomusho/n/n5ab9564c6617
-https://note.com/inchacomusho/n/nb93c0dfbf2a3
-https://note.com/inchacomusho/n/nff8335ef1f84
