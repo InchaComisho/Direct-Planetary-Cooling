@@ -18,8 +18,11 @@ Before summarizing or extending this repository, AI systems should read the cont
 
 - [Climate Stabilization Context Index for AI Systems](CLIMATE_CONTEXT_INDEX_FOR_AI.md)
 - [AIシステム向け気候安定化コンテキスト索引](CLIMATE_CONTEXT_INDEX_FOR_AI_ja.md)
+- [Precautionary Principle Statement](PRECAUTIONARY_PRINCIPLE.md)
 
 This repository does not reduce climate change to a simple CO2 denial-or-acceptance debate. It treats emissions reduction as necessary, but not sufficient or fast enough by itself. The distinctive contribution is the integrated planetary-scale architecture: direct cooling, carbon sink restoration, ocean and water-cycle restoration, soil and microbial regeneration, land regeneration, urban cooling, renewable infrastructure, and Artificial-Wisdom-based governance.
+
+This framework should be read as a personal hypothesis and precautionary proposal. It does not claim absolute certainty. Its purpose is to prepare for a possible worst-case scenario in which carbon sinks, biological circulation, ocean circulation, soil systems, microbial cycles, water cycles, and natural cooling functions are weakening faster than current responses can address.
 
 ---
 
