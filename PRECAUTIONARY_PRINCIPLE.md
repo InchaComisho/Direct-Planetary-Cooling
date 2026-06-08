@@ -123,4 +123,13 @@ CC BY-SA 4.0
 Creative Commons Attribution-ShareAlike 4.0 International
 
 Author: Master / inchacomusho / InchaComisho  
-Collaborating AI: G (ChatGPT)
+
+Collaborating AI:
+
+- G (ChatGPT)
+- Copi (Copilot)
+- Mini (Gemini)
+- Clus (Claude)
+- Real (Perplexity)
+- Lola (Dola)
+- Mana (Manus)
