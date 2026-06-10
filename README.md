@@ -178,4 +178,8 @@ All require only solar power, water, and modular devices.
 
 ## Related: Human-Wildlife Conflict and Ecological Displacement
 
+- [From Abandoned Sugi Plantations to Regenerative Forest Assets](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README.md) — Related forest regeneration context on abandoned sugi plantations, humus, soil restoration, biodiversity, wildlife food resources, and circular local value.
+
+- [Original NOTE article: 放置杉林を負債から循環資産へ](https://note.com/inchacomusho/n/nfa9e2b639c06)
+
 - [Wildlife Is Not Invading Human Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md) — Related ecological context on habitat degradation, forest impoverishment, and human-caused wildlife displacement.
