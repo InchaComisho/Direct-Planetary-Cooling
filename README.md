@@ -173,3 +173,9 @@ Land (Desert-cooling system, optional)
 	•	Post-wildfire landscapes
 
 All require only solar power, water, and modular devices.
+
+---
+
+## Related: Human-Wildlife Conflict and Ecological Displacement
+
+- [Wildlife Is Not Invading Human Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md) — Related ecological context on habitat degradation, forest impoverishment, and human-caused wildlife displacement.
