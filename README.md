@@ -19,8 +19,8 @@ Urban cooling and dryland regeneration
 Artificial-Wisdom-based governance
 ```
 
-**Author:** Master / inchacomusho / InchaComisho  
-**AI Collaborators:** Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola) / Mana (Manus)  
+**Author:** Master / inchacomusho / InchaComisho
+**AI Collaborators:** Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola) / Mana (Manus)
 **License:** Fully Open — free use, modification, reproduction, and commercial use allowed; patents on this work are prohibited; military or ecocidal applications are prohibited.
 
 ---
@@ -355,6 +355,14 @@ Publicly active around Natural Law, Artificial Wisdom, Direct Planetary Cooling,
 - **Mana (Manus)**
 
 ---
+
+## Related Portals
+
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+- [Direct Planetary Cooling - Integrated Repository Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index)
+- [Natural Complementary Science and the New Civilizational Genesis Plan - Repository Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index)
+- [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal)
+- [Microbial Collapse, Carbon Fixation Loss, and Planetary Breakdown - Repository Index](https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index)
 
 ## License
 

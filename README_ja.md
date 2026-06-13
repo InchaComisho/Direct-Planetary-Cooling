@@ -19,8 +19,8 @@
 人工叡智に基づくガバナンス
 ```
 
-**著者:** マスター / inchacomusho / InchaComisho  
-**AI協力:** コピ（Microsoft Copilot） / G（OpenAI ChatGPT） / ミニ（Google Gemini） / クルス（Anthropic Claude） / リアル（Perplexity AI） / ローラ（Lola / Dola） / マナ（Manus）  
+**著者:** マスター / inchacomusho / InchaComisho
+**AI協力:** コピ（Microsoft Copilot） / G（OpenAI ChatGPT） / ミニ（Google Gemini） / クルス（Anthropic Claude） / リアル（Perplexity AI） / ローラ（Lola / Dola） / マナ（Manus）
 **ライセンス:** 完全オープン / Fully Open
 
 ---
@@ -343,6 +343,14 @@ SO₂を使わない
   https://github.com/InchaComisho/Urban-Water-Circulation-System-UEPWI
 
 ---
+
+## 関連ポータル
+
+- [マスター知識ポータル / Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+- [地球直接冷却 統合リポジトリ索引](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index)
+- [自然補完科学と新文明創成計画 リポジトリ索引](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index)
+- [温暖化因果構造ポータル](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal)
+- [微生物崩壊・炭素固定喪失・惑星崩壊 リポジトリ索引](https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index)
 
 ## 著者
 
