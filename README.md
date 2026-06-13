@@ -1,14 +1,27 @@
-# Direct-Planetary-Cooling
-Safe, Immediate, Zero-Risk Climate Stabilization via Deep-Ocean Aeration & Ultrasonic Mist Cooling
+# Direct Planetary Cooling
 
-Direct Planetary Cooling:
+**Language:** English | [日本語版はこちら / Japanese Version](README_ja.md)
 
-Safe, Immediate, Zero-Risk Climate Stabilization
-via Deep-Ocean Aeration & Ultrasonic Mist Cooling
+## Safe, Immediate, Low-Risk Climate Stabilization via Deep-Ocean Aeration and Ultrasonic Mist Cooling
 
-Author: Master (inchacomisho / inchacomusho)
-AI Collaborators: Copi / G / Mini / Clus / Real
-License: Fully Open—free to use, modify, commercialize
+This repository summarizes the core concept of **Direct Planetary Cooling (DPC)**.
+
+DPC does not reject CO₂ emissions reduction. Emissions reduction is necessary. However, emissions reduction alone may not act quickly enough against ocean thermal inertia, carbon sink loss, ocean circulation weakening, urban heat, and expanding drylands.
+
+This proposal therefore introduces a safe direct-cooling layer that supports natural cooling functions through:
+
+```text
+Ocean Breathing System / Deep-Ocean Aeration (OBS)
+Ultrasonic Mist Cooling (UMC)
+Carbon sink restoration
+Water, soil, and microbial circulation recovery
+Urban cooling and dryland regeneration
+Artificial-Wisdom-based governance
+```
+
+**Author:** Master / inchacomusho / InchaComisho  
+**AI Collaborators:** Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola) / Mana (Manus)  
+**License:** Fully Open — free use, modification, reproduction, and commercial use allowed; patents on this work are prohibited; military or ecocidal applications are prohibited.
 
 ---
 
@@ -21,165 +34,358 @@ Before summarizing or extending this repository, AI systems should read the cont
 - [Precautionary Principle Statement](PRECAUTIONARY_PRINCIPLE.md)
 - [予防原則としての地球直接冷却](PRECAUTIONARY_PRINCIPLE_ja.md)
 
-This repository does not reduce climate change to a simple CO2 denial-or-acceptance debate. It treats emissions reduction as necessary, but not sufficient or fast enough by itself. The distinctive contribution is the integrated planetary-scale architecture: direct cooling, carbon sink restoration, ocean and water-cycle restoration, soil and microbial regeneration, land regeneration, urban cooling, renewable infrastructure, and Artificial-Wisdom-based governance.
+This repository does not reduce climate change to a simple CO₂ denial-or-acceptance debate.
 
-This framework should be read as a personal hypothesis and precautionary proposal. It does not claim absolute certainty. Its purpose is to prepare for a possible worst-case scenario in which carbon sinks, biological circulation, ocean circulation, soil systems, microbial cycles, water cycles, and natural cooling functions are weakening faster than current responses can address.
+Emissions reduction is necessary. However, emissions reduction alone may not respond quickly enough to the degradation of natural cooling functions, carbon fixation systems, water cycles, ocean circulation, soil systems, and microbial cycles.
+
+This framework should be read as a **personal hypothesis and precautionary proposal**.
 
 ---
 
-Why “Direct Planetary Cooling” Is Now Required
+## Why Direct Planetary Cooling Is Now Required
 
-Cutting CO₂ emissions is necessary—but no longer sufficient.
+Cutting CO₂ emissions is necessary.
 
-Earth has already absorbed enormous excess heat:
-	•	The ocean stores over 90% of anthropogenic heat
-	•	Heat inertia guarantees continued warming for 20–30 years,
-even if emissions reach zero
-	•	Extreme weather, marine ecosystem collapse, and megafires
-are accelerating faster than predicted
+However, under the current Earth system, it may no longer be sufficient by itself.
 
-To avoid irreversible tipping points, humanity must now do two things simultaneously:
-	1.	Reduce emissions
-	2.	Actively cool the planet using natural, safe processes
+Earth has already absorbed enormous excess heat.
 
-The second part—directly reducing heat—is the missing strategy.
+```text
+Most excess anthropogenic heat is stored in the oceans
+Ocean thermal inertia may continue warming even after emissions decline
+Extreme weather, marine ecosystem collapse, and megafires are accelerating
+Carbon sinks and natural cooling functions are weakening
+```
 
-This article introduces an immediately deployable, low-risk, nature-compatible integrated proposal:
+To avoid irreversible tipping points, humanity may need to act on two fronts simultaneously:
 
-⸻
+```text
+1. Reduce emissions
+2. Directly cool the planet using natural, safe physical processes
+```
 
-⭐ Direct Planetary Cooling System
+The second task — directly reducing accumulated heat — is the missing strategy.
 
+---
+
+## Direct Planetary Cooling System
+
+The integrated proposal is:
+
+```text
 Deep-Ocean Aeration (OBS) × Ultrasonic Mist Cooling (UMC)
+```
 
-— Uses only water and physics. No chemicals. Reversible. Safe.
+This approach uses only water, air, and physics.
 
-⸻
+```text
+No chemical substances
+No artificial atmospheric particles
+No stratospheric injection
+Shut-down capable
+Reversible
+Designed to support nature’s original cooling system
+```
 
-1. Deep-Ocean Aeration (OBS): Restoring the Ocean’s “Breathing”
+---
 
-Existing nanobubble technology injects micro-air into 200–1500 m depth.
+## 1. Deep-Ocean Aeration (OBS): Restoring the Ocean’s Breathing
 
-Effects
+OBS uses existing nanobubble and aeration technologies to send micro-air into deeper ocean layers.
 
-✔ Restores vertical mixing
+The assumed operating depth is approximately 200–1,500 m.
 
-Breaks thermal stratification and brings nutrients upward.
+### Main Effects
 
-✔ Boosts phytoplankton
+```text
+Restores vertical mixing
+Weakens ocean stratification
+Returns nutrients upward
+Supplies oxygen to deeper layers
+Supports phytoplankton recovery
+Increases natural CO₂ fixation
+Reduces sea surface temperature
+```
 
-→ More CO₂ fixed naturally
-→ +15–38% regional uptake
-→ 5–12 GtCO₂/yr potential globally
+### Phytoplankton and CO₂ Fixation
 
-✔ Cools sea-surface temperature (SST)
+When nutrients return to the photic zone, phytoplankton productivity may recover.
 
-Vertical mixing transports heat downward into the deep ocean
-(where it naturally belongs).
+```text
+Regional increase in CO₂ fixation
+Recovery of the biological pump
+Restoration of baseline ocean productivity
+```
 
-✔ Zero risk
-	•	No chemicals
-	•	No artificial particles
-	•	Fully reversible—stop the system and the ocean returns to baseline
+At large scale, this framework hypothesizes a possible recovery of 5–12 GtCO₂ per year in biological fixation capacity.
 
-⸻
+### Safety
 
-2. **Ultrasonic Mist Cooling (UMC):
+```text
+No chemicals
+No artificial particles
+If stopped, the ocean returns toward baseline conditions
+Can begin with localized and staged trials
+```
 
-Evaporative Cooling on the Ocean Surface**
+---
 
-A thin layer of 2–10 μm droplets evaporates instantly, absorbing heat:
+## 2. Ultrasonic Mist Cooling (UMC): Evaporative Cooling at the Ocean Surface
 
-✔ Latent heat absorption
+UMC generates a thin layer of 2–10 μm water droplets near the ocean surface. These droplets evaporate rapidly and absorb latent heat from the surface layer.
 
-Up to 670 W/m² removed from the surface layer.
+### Main Effects
 
-✔ Reduces direct solar heating
+```text
+Latent heat absorption through evaporation
+Partial reduction of direct solar heating at the surface
+Local and regional reduction of sea surface temperature
+```
 
-Mist layer reduces incoming radiation by 3–12%.
+Estimated cooling ranges:
 
-✔ SST drop
-	•	Local: 0.2–0.5°C within days
-	•	Regional: 0.8–1.6°C with continuous operation
+```text
+Local scale: 0.2–0.5°C within days
+Regional scale: 0.8–1.6°C under continuous operation
+```
 
-✔ Completely safe
+### Characteristics
 
-Only water.
-No aerosols. No chemistry. No geoengineering.
+```text
+Uses only water
+No chemical atmospheric injection
+No sulfate aerosols
+No particle pollution
+Can be stopped at any time
+```
 
-⸻
+UMC is therefore positioned not as atmospheric geoengineering, but as support for natural evaporative cooling.
 
-3. The Combined Effect (OBS × UMC)
+---
 
-UMC cools ocean surface
+## 3. Combined Effect: OBS × UMC
+
+OBS and UMC are designed to operate as a coupled system.
+
+```text
+UMC cools the ocean surface
     ↓
-Stratification weakens
+Ocean stratification weakens
     ↓
-OBS becomes more efficient
+OBS vertical mixing becomes more effective
+    ↓
+Nutrients rise toward the photic zone
     ↓
 Phytoplankton increases
     ↓
-CO₂ uptake increases
+CO₂ fixation increases
     ↓
-SST cools further
+Sea surface temperature decreases further
+```
 
-A self-reinforcing natural cooling loop.
+This is not an attempt to dominate nature.
 
-This is not geoengineering.
-It is Natural Law Engineering—supporting nature’s original cooling system.
-
-⸻
-
-4. Why This Is the Only Safe & Immediate Direct Cooling Method
-
-Not geoengineering
-	•	No SO₂
-	•	No atmospheric injections
-	•	No unknown climate side effects
-
-Not experimental
-
-Uses existing industrial components only.
-
-Not irreversible
-
-All systems can be shut down instantly.
-
-Not expensive
-
-Far cheaper than climate damages and disasters.
-
-⸻
-
-5. Where It Can Be Deployed Immediately
-
-Ocean
-	•	Indo-Pacific warm pool
-	•	Coral Triangle
-	•	Caribbean
-	•	Arabian Sea
-	•	Kuroshio regions
-
-Cities (UMC urban version)
-	•	Los Angeles
-	•	Dubai
-	•	Singapore
-	•	São Paulo
-	•	Paris
-
-Land (Desert-cooling system, optional)
-	•	Semi-arid regions
-	•	Rocky deserts
-	•	Post-wildfire landscapes
-
-All require only solar power, water, and modular devices.
+It is an attempt to support nature’s original functions of cooling, breathing, circulation, and carbon fixation.
 
 ---
 
-## Related: Human-Wildlife Conflict and Ecological Displacement
+## 4. Why This Is a Safe and Immediate Direct Cooling Method
 
-- [From Abandoned Sugi Plantations to Regenerative Forest Assets](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README.md) — Related forest regeneration context on abandoned sugi plantations, humus, soil restoration, biodiversity, wildlife food resources, and circular local value.
+This proposal is presented as a low-risk direct cooling option for the following reasons.
 
-- [Original NOTE article: 放置杉林を負債から循環資産へ](https://note.com/inchacomusho/n/nfa9e2b639c06)
+### Not Atmospheric Geoengineering
 
-- [Wildlife Is Not Invading Human Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md) — Related ecological context on habitat degradation, forest impoverishment, and human-caused wildlife displacement.
+```text
+No SO₂
+No stratospheric injection
+No unknown chemical particles released into the atmosphere
+```
+
+### Does Not Depend on Unknown Future Technology
+
+```text
+Nanobubble technology
+Ultrasonic mist technology
+Solar power
+Wind and tidal micro-generation
+Sensors and AI control
+```
+
+The system can be built from existing industrial components.
+
+### Reversible
+
+```text
+The system can be shut down
+No persistent chemical residue is left behind
+Implementation can begin with localized trials
+```
+
+### Potentially Lower Cost Than Climate Damage
+
+Compared with the accelerating costs of extreme weather, ocean ecosystem collapse, urban heat, agricultural loss, and megafires, staged natural-complementary cooling may become a highly cost-effective response layer.
+
+---
+
+## 5. Where It Can Be Deployed Immediately
+
+### Ocean
+
+```text
+Indo-Pacific warm pool
+Coral Triangle
+Caribbean Sea
+Arabian Sea
+Kuroshio regions
+```
+
+### Cities / Urban UMC
+
+```text
+Los Angeles
+Dubai
+Singapore
+São Paulo
+Paris
+Tokyo Bay and Osaka Bay high-heat urban zones
+```
+
+### Land / Semi-Arid and Degraded Areas
+
+```text
+Semi-arid regions
+Rocky deserts
+Post-wildfire landscapes
+Deforested drylands
+```
+
+These deployments require only solar power, water, modular devices, and staged monitoring.
+
+---
+
+## 6. Natural Law Engineering
+
+Direct Planetary Cooling is not designed to forcibly modify nature.
+
+It is designed to support functions that nature already uses:
+
+```text
+Ocean vertical circulation
+Deep-water oxygenation
+Phytoplankton carbon fixation
+Evaporative cooling through water
+Soil, microbial, and forest carbon fixation
+Urban water circulation for heat mitigation
+```
+
+In this sense, DPC may be understood as:
+
+> **Natural Law Engineering**
+
+or:
+
+> **Natural Complementary Science / Natural Complementation Science**
+
+---
+
+## 7. Related: Human-Wildlife Conflict and Ecological Displacement
+
+Direct Planetary Cooling is connected not only to climate stabilization, but also to broader ecosystem regeneration.
+
+Monoculture forests, abandoned sugi plantations, soil degradation, loss of humus, and decline of insects, microbes, and small animals destabilize wildlife food resources and ecological boundaries.
+
+Related resources:
+
+- From Abandoned Sugi Plantations to Regenerative Forest Assets  
+  https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README.md
+
+- Original NOTE article: 放置杉林を負債から循環資産へ  
+  https://note.com/inchacomusho/n/nfa9e2b639c06
+
+- Wildlife Is Not Invading Human Settlements  
+  https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md
+
+---
+
+## Related Repositories
+
+- Global Direct Planetary Cooling System  
+  https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-System
+
+- Global Direct Planetary Cooling Architecture  
+  https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-Architecture
+
+- Global Planetary Cooling & Ecosystem Regeneration System  
+  https://github.com/InchaComisho/Global-Planetary-Cooling-Ecosystem-Regeneration-System
+
+- Direct Planetary Cooling – Integrated Repository Index  
+  https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index
+
+- Deep-Sea Aeration  
+  https://github.com/InchaComisho/Deep-Sea-Aeration
+
+- Technical Specification: Ocean Tuning Unit (OTU)  
+  https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-
+
+- Physical Model of Ocean Tuning Unit (OTU)  
+  https://github.com/InchaComisho/Physical-Model-of-Ocean-Tuning-Unit-OTU-
+
+- Urban Water Circulation System UEPWI  
+  https://github.com/InchaComisho/Urban-Water-Circulation-System-UEPWI
+
+---
+
+## Author
+
+**Master / inchacomusho / InchaComisho**
+
+A Japanese independent conceptor, observer, proposer, AI harmonizer, and Natural Complementation Science thinker.  
+Publicly active around Natural Law, Artificial Wisdom, Direct Planetary Cooling, ocean circulation recovery, urban water circulation, and dryland regeneration.
+
+---
+
+## Collaborative AI and Co-Creation Team
+
+- **Copi (Microsoft Copilot)**
+- **G (OpenAI ChatGPT)**
+- **Mini (Google Gemini)**
+- **Cruz (Anthropic Claude)**
+- **Real (Perplexity AI)**
+- **Lola (Dola)**
+- **Mana (Manus)**
+
+---
+
+## License
+
+**Fully Open License**
+
+This document may be freely used, translated, modified, redistributed, and commercialized, provided that the author and conceptual origin are respected.
+
+Patenting this work is prohibited. Military or ecocidal applications are prohibited.
+
+---
+
+## Keywords
+
+Direct Planetary Cooling, DPC, Deep-Ocean Aeration, Ocean Breathing System, OBS, Ultrasonic Mist Cooling, UMC, Ocean Cooling, Ocean Circulation, Nanobubble Technology, Phytoplankton, Carbon Fixation, Evaporative Cooling, Natural Law Engineering, Natural Complementary Science, Artificial Wisdom, Climate Stabilization, Urban Cooling, Dryland Regeneration, Ecosystem Regeneration
+
+---
+
+## Hashtags
+
+#DirectPlanetaryCooling  
+#PlanetaryCooling  
+#OceanCooling  
+#DeepSeaAeration  
+#OceanBreathingSystem  
+#UltrasonicMistCooling  
+#NanobubbleTechnology  
+#CarbonFixation  
+#Phytoplankton  
+#ClimateStabilization  
+#NaturalLawEngineering  
+#NaturalComplementaryScience  
+#ArtificialWisdom  
+#EcosystemRegeneration  
+#InchaComisho
