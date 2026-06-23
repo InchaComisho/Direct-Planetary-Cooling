@@ -60,6 +60,34 @@
 
 ---
 
+## 市場仮説としての接続
+
+地球直接冷却は、自然冷却機能をどのように回復するかを示す。
+
+しかし、それだけでは社会実装には届かない。
+
+クーリングクレジット市場仮説は、地球を冷やす行為を巨大産業に変え、企業・投資家・自治体・保険・インフラ・農業・漁業・観光業が参入する理由を作る。
+
+```text
+欲と利益
+↓
+クーリングクレジット市場への参入
+↓
+冷却事業・自然再生事業の拡大
+↓
+局所的・地域的な熱負荷低減
+↓
+水循環・蒸散・雲・雨・海洋循環の補完
+↓
+自然冷却機能の回復
+```
+
+意識改革は、実装の前提ではない。
+
+結果が出た後に、人類はようやく自然現象の回復こそが温暖化対策であったと理解する。
+
+---
+
 ## 対象となる自然冷却機能
 
 クーリングクレジットが価値化すべき対象は、単なる冷却装置ではない。
@@ -86,6 +114,7 @@
 ## 関連リンク
 
 - [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
+- [クーリングクレジット市場仮説](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/COOLING_CREDIT_MARKET_THESIS_ja.md)
 - [自然冷却機能の再起動としてのクーリングクレジット](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/NATURAL_COOLING_FUNCTION_RESTART_ja.md)
 - [クーリングクレジット導入規模別・冷却効果試算モデル](https://github.com/InchaComisho/Cooling-Credit-Framework/tree/main/simulations/cooling_credit_scale_temperature_model)
 - [地球直接冷却 NOTE](https://note.com/inchacomusho/n/ne956f3a8fdf0)
