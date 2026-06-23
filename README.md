@@ -42,6 +42,22 @@ This framework should be read as a **personal hypothesis and precautionary propo
 
 ---
 
+## Cooling Credits: The Implementation Layer of Direct Planetary Cooling
+
+- [Cooling Credits as the Implementation Layer of Direct Planetary Cooling](COOLING_CREDIT_AS_IMPLEMENTATION_LAYER.md)
+
+Direct Planetary Cooling is the higher-level concept for restoring and restarting the natural cooling functions that Earth originally possessed.
+
+However, even if the direction of the solution is visible, humanity does not move fast enough through goodwill or morality alone.
+
+Therefore, Direct Planetary Cooling needs an institutional, investment, and business implementation layer.
+
+That layer is the Cooling Credit Framework.
+
+Cooling Credits redirect desire, profit, investment, and business toward natural regeneration, turning cooling, forest restoration, soil recovery, water-cycle restoration, and ocean-circulation support into scalable climate-adaptation industries.
+
+---
+
 ## Why Direct Planetary Cooling Is Now Required
 
 Cutting CO₂ emissions is necessary.
@@ -311,6 +327,9 @@ Related resources:
 
 - [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
   A policy and technical framework for measuring real heat-load reduction, water-cycle recovery, soil moisture restoration, vegetation transpiration, waste-heat reduction, and ocean circulation recovery as measurable cooling contributions.
+
+- [Cooling Credits as the Implementation Layer of Direct Planetary Cooling](COOLING_CREDIT_AS_IMPLEMENTATION_LAYER.md)
+  A document defining Cooling Credits as the institutional, investment, and business implementation layer of Direct Planetary Cooling.
 
 - [Cooling Credits Are Not Solar-Shielding Credits](https://github.com/InchaComisho/Cooling-Credit-Framework)
   This framework distinguishes direct heat-load reduction and natural cooling recovery from solar-shielding or solar-radiation-blocking schemes.
