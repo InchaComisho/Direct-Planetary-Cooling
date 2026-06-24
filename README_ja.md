@@ -387,6 +387,9 @@ SO₂を使わない
 - [温暖化因果構造ポータル](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal)
 - [微生物崩壊・炭素固定喪失・惑星崩壊 リポジトリ索引](https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index)
 
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+  サステナブル、サステナビリティ、SDGs、環境モビリティ、ESG、気候適応、都市冷却、文明OSなどの検索語から、クーリングクレジットへ接続する多言語検索入口ポータル。
+
 ## 著者
 
 **マスター / inchacomusho / InchaComisho**

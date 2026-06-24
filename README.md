@@ -399,6 +399,9 @@ Publicly active around Natural Law, Artificial Wisdom, Direct Planetary Cooling,
 - [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal)
 - [Microbial Collapse, Carbon Fixation Loss, and Planetary Breakdown - Repository Index](https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index)
 
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+  A multilingual search gateway connecting sustainability, SDGs, environmental mobility, ESG, climate adaptation, urban cooling, and Civilization OS to Cooling Credits.
+
 ## License
 
 **Fully Open License**
