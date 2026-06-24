@@ -379,6 +379,9 @@ SO₂を使わない
 
 ---
 
+- [温暖化時代のエルニーニョとクーリングクレジット](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit/blob/main/README_ja.md)
+  すでに熱を抱えた海にエルニーニョが重なる危険性を整理し、その警告をクーリングクレジットと熱会計へ接続する文書。
+
 ## 関連ポータル
 
 - [マスター知識ポータル / Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
