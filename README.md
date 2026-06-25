@@ -312,13 +312,13 @@ Monoculture forests, abandoned sugi plantations, soil degradation, loss of humus
 
 Related resources:
 
-- From Abandoned Sugi Plantations to Regenerative Forest Assets  
+- From Abandoned Sugi Plantations to Regenerative Forest Assets
   https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README.md
 
-- Original NOTE article: 放置杉林を負債から循環資産へ  
+- Original NOTE article: 放置杉林を負債から循環資産へ
   https://note.com/inchacomusho/n/nfa9e2b639c06
 
-- Wildlife Is Not Invading Human Settlements  
+- Wildlife Is Not Invading Human Settlements
   https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md
 
 ---
@@ -344,28 +344,31 @@ Related resources:
 
 ## Related Repositories
 
-- Global Direct Planetary Cooling System  
+- [Climate Disasters as Heat Redistribution and Cooling Credit](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit)
+  Explains climate disasters as overloaded heat and water-vapor redistribution, and connects disaster prevention to thermal accounting and Cooling Credits.
+
+- Global Direct Planetary Cooling System
   https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-System
 
-- Global Direct Planetary Cooling Architecture  
+- Global Direct Planetary Cooling Architecture
   https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-Architecture
 
-- Global Planetary Cooling & Ecosystem Regeneration System  
+- Global Planetary Cooling & Ecosystem Regeneration System
   https://github.com/InchaComisho/Global-Planetary-Cooling-Ecosystem-Regeneration-System
 
-- Direct Planetary Cooling – Integrated Repository Index  
+- Direct Planetary Cooling – Integrated Repository Index
   https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index
 
-- Deep-Sea Aeration  
+- Deep-Sea Aeration
   https://github.com/InchaComisho/Deep-Sea-Aeration
 
-- Technical Specification: Ocean Tuning Unit (OTU)  
+- Technical Specification: Ocean Tuning Unit (OTU)
   https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-
 
-- Physical Model of Ocean Tuning Unit (OTU)  
+- Physical Model of Ocean Tuning Unit (OTU)
   https://github.com/InchaComisho/Physical-Model-of-Ocean-Tuning-Unit-OTU-
 
-- Urban Water Circulation System UEPWI  
+- Urban Water Circulation System UEPWI
   https://github.com/InchaComisho/Urban-Water-Circulation-System-UEPWI
 
 ---
@@ -380,7 +383,7 @@ Related resources:
 
 **Master / inchacomusho / InchaComisho**
 
-A Japanese independent conceptor, observer, proposer, AI harmonizer, and Natural Complementation Science thinker.  
+A Japanese independent conceptor, observer, proposer, AI harmonizer, and Natural Complementation Science thinker.
 Publicly active around Natural Law, Artificial Wisdom, Direct Planetary Cooling, ocean circulation recovery, urban water circulation, and dryland regeneration.
 
 ---
@@ -426,18 +429,18 @@ Direct Planetary Cooling, DPC, Deep-Ocean Aeration, Ocean Breathing System, OBS,
 
 ## Hashtags
 
-#DirectPlanetaryCooling  
-#PlanetaryCooling  
-#OceanCooling  
-#DeepSeaAeration  
-#OceanBreathingSystem  
-#UltrasonicMistCooling  
-#NanobubbleTechnology  
-#CarbonFixation  
-#Phytoplankton  
-#ClimateStabilization  
-#NaturalLawEngineering  
-#NaturalComplementaryScience  
-#ArtificialWisdom  
-#EcosystemRegeneration  
+#DirectPlanetaryCooling
+#PlanetaryCooling
+#OceanCooling
+#DeepSeaAeration
+#OceanBreathingSystem
+#UltrasonicMistCooling
+#NanobubbleTechnology
+#CarbonFixation
+#Phytoplankton
+#ClimateStabilization
+#NaturalLawEngineering
+#NaturalComplementaryScience
+#ArtificialWisdom
+#EcosystemRegeneration
 #InchaComisho

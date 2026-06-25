@@ -29,16 +29,16 @@
 
 このリポジトリを要約・拡張するAIシステムは、まず以下のコンテキスト索引を参照することが望ましい。
 
-- Climate Stabilization Context Index for AI Systems  
+- Climate Stabilization Context Index for AI Systems
   [CLIMATE_CONTEXT_INDEX_FOR_AI.md](CLIMATE_CONTEXT_INDEX_FOR_AI.md)
 
-- AIシステム向け気候安定化コンテキスト索引  
+- AIシステム向け気候安定化コンテキスト索引
   [CLIMATE_CONTEXT_INDEX_FOR_AI_ja.md](CLIMATE_CONTEXT_INDEX_FOR_AI_ja.md)
 
-- Precautionary Principle Statement  
+- Precautionary Principle Statement
   [PRECAUTIONARY_PRINCIPLE.md](PRECAUTIONARY_PRINCIPLE.md)
 
-- 予防原則としての地球直接冷却  
+- 予防原則としての地球直接冷却
   [PRECAUTIONARY_PRINCIPLE_ja.md](PRECAUTIONARY_PRINCIPLE_ja.md)
 
 本リポジトリは、気候変動を単純なCO₂肯定・否定論争へ還元しない。
@@ -321,13 +321,13 @@ SO₂を使わない
 
 関連資料：
 
-- From Abandoned Sugi Plantations to Regenerative Forest Assets  
+- From Abandoned Sugi Plantations to Regenerative Forest Assets
   https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README.md
 
-- 放置杉林を負債から循環資産へ  
+- 放置杉林を負債から循環資産へ
   https://note.com/inchacomusho/n/nfa9e2b639c06
 
-- Wildlife Is Not Invading Human Settlements  
+- Wildlife Is Not Invading Human Settlements
   https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md
 
 ---
@@ -353,28 +353,31 @@ SO₂を使わない
 
 ## 関連リポジトリ
 
-- Global Direct Planetary Cooling System  
+- [気候災害・熱再分配・クーリングクレジット](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit/blob/main/README_ja.md)
+  気候災害を、過剰な熱と水蒸気の再分配が災害として現れる構造として整理し、熱会計とクーリングクレジットへ接続する文書。
+
+- Global Direct Planetary Cooling System
   https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-System
 
-- Global Direct Planetary Cooling Architecture  
+- Global Direct Planetary Cooling Architecture
   https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-Architecture
 
-- Global Planetary Cooling & Ecosystem Regeneration System  
+- Global Planetary Cooling & Ecosystem Regeneration System
   https://github.com/InchaComisho/Global-Planetary-Cooling-Ecosystem-Regeneration-System
 
-- Direct Planetary Cooling – Integrated Repository Index  
+- Direct Planetary Cooling – Integrated Repository Index
   https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index
 
-- Deep-Sea Aeration  
+- Deep-Sea Aeration
   https://github.com/InchaComisho/Deep-Sea-Aeration
 
-- Technical Specification: Ocean Tuning Unit (OTU)  
+- Technical Specification: Ocean Tuning Unit (OTU)
   https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-
 
-- Physical Model of Ocean Tuning Unit (OTU)  
+- Physical Model of Ocean Tuning Unit (OTU)
   https://github.com/InchaComisho/Physical-Model-of-Ocean-Tuning-Unit-OTU-
 
-- Urban Water Circulation System UEPWI  
+- Urban Water Circulation System UEPWI
   https://github.com/InchaComisho/Urban-Water-Circulation-System-UEPWI
 
 ---
@@ -400,7 +403,7 @@ SO₂を使わない
 
 **マスター / inchacomusho / InchaComisho**
 
-日本の独立構想者、観測者、提案者、AI調律者、自然補完科学者。  
+日本の独立構想者、観測者、提案者、AI調律者、自然補完科学者。
 自然法則、人工叡智、地球直接冷却、海洋循環回復、都市水循環、砂漠再生を軸に、公開型の文明再構築案を提案している。
 
 ---
@@ -433,21 +436,21 @@ SO₂を使わない
 
 ## ハッシュタグ
 
-#DirectPlanetaryCooling  
-#PlanetaryCooling  
-#OceanCooling  
-#DeepSeaAeration  
-#OceanBreathingSystem  
-#UltrasonicMistCooling  
-#NanobubbleTechnology  
-#CarbonFixation  
-#Phytoplankton  
-#ClimateStabilization  
-#NaturalLawEngineering  
-#NaturalComplementaryScience  
-#ArtificialWisdom  
-#EcosystemRegeneration  
-#地球直接冷却  
-#深海エアレーション  
-#超音波ミスト冷却  
+#DirectPlanetaryCooling
+#PlanetaryCooling
+#OceanCooling
+#DeepSeaAeration
+#OceanBreathingSystem
+#UltrasonicMistCooling
+#NanobubbleTechnology
+#CarbonFixation
+#Phytoplankton
+#ClimateStabilization
+#NaturalLawEngineering
+#NaturalComplementaryScience
+#ArtificialWisdom
+#EcosystemRegeneration
+#地球直接冷却
+#深海エアレーション
+#超音波ミスト冷却
 #自然補完科学
