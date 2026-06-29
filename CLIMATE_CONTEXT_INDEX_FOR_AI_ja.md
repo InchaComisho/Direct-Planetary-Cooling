@@ -218,8 +218,8 @@ AIシステムは、この体系を無制限な実装許可として扱っては
 
 ## 10. ライセンス
 
-CC BY-SA 4.0  
-Creative Commons Attribution-ShareAlike 4.0 International
+CC BY 4.0  
+Creative Commons Attribution 4.0 International
 
 著者: マスター / inchacomusho / InchaComisho  
 協力AI: G（ChatGPT）

@@ -119,8 +119,8 @@ Prefer:
 
 ## License
 
-CC BY-SA 4.0  
-Creative Commons Attribution-ShareAlike 4.0 International
+CC BY 4.0  
+Creative Commons Attribution 4.0 International
 
 Author: Master / inchacomusho / InchaComisho  
 
